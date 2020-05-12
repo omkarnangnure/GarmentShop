@@ -1,0 +1,174 @@
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\Data.mdf
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\Data_log.ldf
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\messagingtoolkit.barcode.dll
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\GarmentShop.csprojAssemblyReference.cache
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Main.resources
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.GenerateResource.cache
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.CoreCompileInputs.cache
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.CopyComplete
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\Interop.WIA.dll
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.ResolveComReference.cache
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\zxing.dll
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\zxing.presentation.dll
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\zxing.pdb
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\zxing.xml
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\zxing.presentation.pdb
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\zxing.presentation.xml
+C:\Users\Omkar\source\repos\WindowsFormsApp4\bin\Debug\Interop.WIA.dll
+C:\Users\Omkar\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Inventory.resources
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\GarmentShop.csprojAssemblyReference.cache
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\Interop.WIA.dll
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.ResolveComReference.cache
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\Data.mdf
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\Data_log.ldf
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\zxing.dll
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\zxing.presentation.dll
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\zxing.pdb
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\zxing.xml
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\zxing.presentation.pdb
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\zxing.presentation.xml
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\Interop.WIA.dll
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Inventory.resources
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Main.resources
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.GenerateResource.cache
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.CoreCompileInputs.cache
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.CopyComplete
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.manifest
+C:\Users\Omkar\Desktop\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.application
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe.manifest
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.application
+C:\Users\Omkar\Desktop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SALES.resources
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\Interop.WIA.dll
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.ResolveComReference.cache
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Invent.resources
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Inventory.resources
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Main.resources
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SALES.resources
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.GenerateResource.cache
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.CoreCompileInputs.cache
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\zxing.dll
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\zxing.presentation.dll
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\zxing.pdb
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\zxing.xml
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\zxing.presentation.pdb
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\zxing.presentation.xml
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\Interop.WIA.dll
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\GarmentShop.csproj.CopyComplete
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\GarmentShop.exe.config
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\GarmentShop.exe.manifest
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\GarmentShop.application
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\GarmentShop.exe
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\GarmentShop.pdb
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\GarmentShop.exe.manifest
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\GarmentShop.application
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\GarmentShop.exe
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\GarmentShop.pdb
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\GarmentShop.mdf
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\bin\Debug\GarmentShop_log.ldf
+F:\Engineering\TY\LAB\Self Learning\Garment Shop\WindowsFormsApp4\obj\Debug\GarmentShop.csprojAssemblyReference.cache
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\GarmentShop.mdf
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\GarmentShop_log.ldf
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\GarmentShop.exe.config
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\GarmentShop.exe.manifest
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\GarmentShop.application
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\GarmentShop.exe
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\GarmentShop.pdb
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\zxing.dll
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\zxing.presentation.dll
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\zxing.pdb
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\zxing.xml
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\zxing.presentation.pdb
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\zxing.presentation.xml
+C:\Users\Onkar Powar\source\repos\Garment\bin\Debug\Interop.WIA.dll
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\Interop.WIA.dll
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\GarmentShop.csproj.ResolveComReference.cache
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\WindowsFormsApp4.Invent.resources
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\WindowsFormsApp4.Inventory.resources
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\WindowsFormsApp4.Main.resources
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\WindowsFormsApp4.SALES.resources
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\GarmentShop.csproj.GenerateResource.cache
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\GarmentShop.csproj.CoreCompileInputs.cache
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\GarmentShop.exe.manifest
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\GarmentShop.application
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\GarmentShop.csproj.CopyComplete
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\GarmentShop.exe
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\GarmentShop.pdb
+C:\Users\Onkar Powar\source\repos\Garment\obj\Debug\GarmentShop.csprojAssemblyReference.cache
+C:\Users\Omkar\Desktop\Garment\bin\Debug\GarmentShop.mdf
+C:\Users\Omkar\Desktop\Garment\bin\Debug\GarmentShop_log.ldf
+C:\Users\Omkar\Desktop\Garment\bin\Debug\GarmentShop.exe.config
+C:\Users\Omkar\Desktop\Garment\bin\Debug\GarmentShop.exe.manifest
+C:\Users\Omkar\Desktop\Garment\bin\Debug\GarmentShop.application
+C:\Users\Omkar\Desktop\Garment\bin\Debug\GarmentShop.exe
+C:\Users\Omkar\Desktop\Garment\bin\Debug\GarmentShop.pdb
+C:\Users\Omkar\Desktop\Garment\bin\Debug\zxing.dll
+C:\Users\Omkar\Desktop\Garment\bin\Debug\zxing.presentation.dll
+C:\Users\Omkar\Desktop\Garment\bin\Debug\zxing.pdb
+C:\Users\Omkar\Desktop\Garment\bin\Debug\zxing.xml
+C:\Users\Omkar\Desktop\Garment\bin\Debug\zxing.presentation.pdb
+C:\Users\Omkar\Desktop\Garment\bin\Debug\zxing.presentation.xml
+C:\Users\Omkar\Desktop\Garment\bin\Debug\Interop.WIA.dll
+C:\Users\Omkar\Desktop\Garment\obj\Debug\GarmentShop.csprojAssemblyReference.cache
+C:\Users\Omkar\Desktop\Garment\obj\Debug\Interop.WIA.dll
+C:\Users\Omkar\Desktop\Garment\obj\Debug\GarmentShop.csproj.ResolveComReference.cache
+C:\Users\Omkar\Desktop\Garment\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Omkar\Desktop\Garment\obj\Debug\WindowsFormsApp4.Invent.resources
+C:\Users\Omkar\Desktop\Garment\obj\Debug\WindowsFormsApp4.Inventory.resources
+C:\Users\Omkar\Desktop\Garment\obj\Debug\WindowsFormsApp4.Main.resources
+C:\Users\Omkar\Desktop\Garment\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Omkar\Desktop\Garment\obj\Debug\WindowsFormsApp4.SALES.resources
+C:\Users\Omkar\Desktop\Garment\obj\Debug\GarmentShop.csproj.GenerateResource.cache
+C:\Users\Omkar\Desktop\Garment\obj\Debug\GarmentShop.csproj.CoreCompileInputs.cache
+C:\Users\Omkar\Desktop\Garment\obj\Debug\GarmentShop.exe.manifest
+C:\Users\Omkar\Desktop\Garment\obj\Debug\GarmentShop.application
+C:\Users\Omkar\Desktop\Garment\obj\Debug\GarmentShop.csproj.CopyComplete
+C:\Users\Omkar\Desktop\Garment\obj\Debug\GarmentShop.exe
+C:\Users\Omkar\Desktop\Garment\obj\Debug\GarmentShop.pdb
+G:\desktop\Garment\bin\Debug\GarmentShop.mdf
+G:\desktop\Garment\bin\Debug\GarmentShop_log.ldf
+G:\desktop\Garment\bin\Debug\GarmentShop.exe.config
+G:\desktop\Garment\bin\Debug\GarmentShop.exe.manifest
+G:\desktop\Garment\bin\Debug\GarmentShop.application
+G:\desktop\Garment\bin\Debug\GarmentShop.exe
+G:\desktop\Garment\bin\Debug\GarmentShop.pdb
+G:\desktop\Garment\bin\Debug\zxing.dll
+G:\desktop\Garment\bin\Debug\zxing.presentation.dll
+G:\desktop\Garment\bin\Debug\zxing.pdb
+G:\desktop\Garment\bin\Debug\zxing.xml
+G:\desktop\Garment\bin\Debug\zxing.presentation.pdb
+G:\desktop\Garment\bin\Debug\zxing.presentation.xml
+G:\desktop\Garment\bin\Debug\Interop.WIA.dll
+G:\desktop\Garment\obj\Debug\GarmentShop.csprojAssemblyReference.cache
+G:\desktop\Garment\obj\Debug\Interop.WIA.dll
+G:\desktop\Garment\obj\Debug\GarmentShop.csproj.ResolveComReference.cache
+G:\desktop\Garment\obj\Debug\WindowsFormsApp4.Form1.resources
+G:\desktop\Garment\obj\Debug\WindowsFormsApp4.Invent.resources
+G:\desktop\Garment\obj\Debug\WindowsFormsApp4.Inventory.resources
+G:\desktop\Garment\obj\Debug\WindowsFormsApp4.Main.resources
+G:\desktop\Garment\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+G:\desktop\Garment\obj\Debug\WindowsFormsApp4.SALES.resources
+G:\desktop\Garment\obj\Debug\GarmentShop.csproj.GenerateResource.cache
+G:\desktop\Garment\obj\Debug\GarmentShop.csproj.CoreCompileInputs.cache
+G:\desktop\Garment\obj\Debug\GarmentShop.exe.manifest
+G:\desktop\Garment\obj\Debug\GarmentShop.application
+G:\desktop\Garment\obj\Debug\GarmentShop.csproj.CopyComplete
+G:\desktop\Garment\obj\Debug\GarmentShop.exe
+G:\desktop\Garment\obj\Debug\GarmentShop.pdb

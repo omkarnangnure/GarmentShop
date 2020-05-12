@@ -1,0 +1,26 @@
+﻿CREATE TABLE inventory
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+	[Category] VARCHAR(50) NOT NULL, 
+    [Brand] VARCHAR(50) NOT NULL, 
+    [Size] VARCHAR(50) NOT NULL, 
+    [Price] VARCHAR(50) NOT NULL
+ 
+)
+
+CREATE TABLE LOGIN
+(
+	[LOGIN_ID] VARCHAR(50) NOT NULL PRIMARY KEY, 
+    [PASSWORD] VARCHAR(50) NOT NULL
+)
+
+CREATE TABLE sales
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [date] DATE NOT NULL, 
+	[time] TIME NOT NULL ,
+    [total] INT NOT NULL
+    
+
+)
+
